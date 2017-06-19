@@ -72,7 +72,7 @@ class NavigationController extends Controller
     }
 
 
-    public function traitement ()
+    public function lectureNavigation ()
         {
             // on charge le cours
 
@@ -136,22 +136,4 @@ class NavigationController extends Controller
             //dd($resultat);
             return $resultat;
         }
-
-        public function lectureContenu() {
-            $result = json_decode($this->traitement());
-            $result = $result->contenu;
-            return json_encode($result);
-        }
-
-
-
-
-    // Fonction qui renvoie la structure de navigation de la page
-    public function lectureNavigation() {
-        $result = json_decode($this->traitement());
-        $result = $result->navigation;
-        return json_encode($result);
-
-    }
-
 }

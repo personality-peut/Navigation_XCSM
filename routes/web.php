@@ -22,4 +22,3 @@ Route::get('/home', 'HomeController@index')->name('home');
 // Route vers les éléments de navigation
 // Les objets de navigation
 Route::get('/navigation', 'NavigationController@lectureNavigation');
-Route::get('/contenu', 'NavigationController@lectureContenu');

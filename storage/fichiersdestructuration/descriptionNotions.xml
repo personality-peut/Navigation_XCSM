@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listeDecriptionNotion nbrNotions="33" title="Document6.docx.fo">
+    <notion id="1_0_0_0" position="2">
+        <span>Nous débuterons avec les pages préliminaires placées au début d’un document. Elles visent essentiellement
+            à identifier le support de cours, l’auteur, les objectifs, les dépendances. On y retrouve également une
+            brève description de la teneur du support et de sa structure.
+        </span>
+    </notion>
+    <notion id="1_1_1_1" position="3">
+        <span>Le titre constitue la première partie du support. Il permet au lecteur de prendre connaissance de
+            l’origine du document et du sujet traité.
+        </span>
+    </notion>
+    <notion id="1_1_1_2" position="4">
+        <span>Cette partie du document doit se présentée sous forme de tableau faisant ressortir les éléments
+            suivants:
+        </span>
+    </notion>
+    <notion id="1_1_1_3" position="5">
+        <span>L’identifiant du cadre institutionnel, dans notre cas c’est la SABC</span>
+    </notion>
+    <notion id="1_1_1_4" position="6">
+        <span>Le domaine concerné par le support (exemple : Achat)</span>
+    </notion>
+    <notion id="1_1_1_5" position="7">
+        <span>Le thème développé dans le support.</span>
+    </notion>
+    <notion id="1_1_1_6" position="8">
+        <span>Le type de document que représente le support (cours, fiche de TD, etc.)</span>
+    </notion>
+    <notion id="1_1_1_7" position="9">
+        <span>La version du document</span>
+    </notion>
+    <notion id="1_1_1_8" position="10">
+        <span>La date (si possible le lieu) de rédaction du document</span>
+    </notion>
+    <notion id="1_1_1_9" position="11">
+        <span>La date de la dernière mise à jour</span>
+    </notion>
+    <notion id="1_1_1_10" position="12">
+        <span>Le(s) nom(s) et adresse(s) de(s) auteur(s)</span>
+    </notion>
+    <notion id="1_1_1_11" position="13">
+        <span>La licence du document (les droits)</span>
+    </notion>
+    <notion id="1_1_1_12" position="14">
+        <span>Ces informations peuvent êtres enrichies ou allégées en fonction des circonstances.</span>
+    </notion>
+    <notion id="1_1_2_1" position="15">
+        <span>La liste de diffusion est un tableau qui indique les personnes concernées par le document. On peut y
+            indiqué le rôle de chaque intervenant (consultation, validation, information, etc.)
+        </span>
+    </notion>
+    <notion id="1_1_3_1" position="16">
+        <span>Ce paragraphe facultatif, est une description synoptique du contenu du document. Il permet au lecteur,
+            d’avoir une idée du contenu du document. Cette information prépare psychologique le lecteur pour la
+            découverte du contenu développé dans le support.
+        </span>
+    </notion>
+    <notion id="1_1_4_1" position="17">
+        <table>
+            <tr>
+                <th>Numéros</th>
+                <th>Noms</th>
+                <th>Prénoms</th>
+            </tr>
+            <tr>
+                <td>00237694174380</td>
+                <td>TCHOUPE SOH</td>
+                <td>Doreen Lucky</td>
+            </tr>
+        </table>
+    </notion>
+    <notion id="1_1_5_1" position="18">
+        <img height="206px" src="file:/C:/Users/D'rin/AppData/Local/Temp/a5a84846-577b-409d-8d0c-149f17dbcdacimage1.jpg"
+             width="360px"/>
+    </notion>
+    <notion id="1_1_6_1" position="19">
+        <span>Dans le cas des supports de cours, la description des objectifs pédagogiques en termes de comportements ou
+            de compétences observables chez chaque apprenant au terme de l’exploitation du document. Le pédagogue doit
+            citer point par point ce à quoi l’apprenant devra êtres capable de réaliser à l’issue du processus
+            d’apprentissage.
+        </span>
+    </notion>
+    <notion id="1_1_7_1" position="20">
+        <span>Le tableau de dépendance, présente les différentes ressources nécessaires qu’on doit mobiliser pour la
+            réalisation des objectifs visés dans le support. Pour chaque ressource, on doit spécifier sa nature en
+            indiquant si la ressource est un pré requis, une ressource complémentaire, une démo ou tout autre support
+            devant aller avec le document.
+        </span>
+    </notion>
+    <notion id="1_1_8_1" position="21">
+        <span>Le sommaire, encore appelé table des matières est la page la plus consultée après la page de titre et la
+            page du résumé car elle donne au lecteur un aperçu schématique du contenu du document. La table des matières
+            comprend le titre de toutes les divisions et sous-divisions du document. Il est à noter que la table des
+            matières commence avec l’introduction et elle se termine avec les références bibliographiques ou la
+            bibliographie. Les pages préliminaires ne sont pas présentées dans la table des matières.
+        </span>
+    </notion>
+    <notion id="1_1_8_2" position="22">
+        <span>Les différents niveaux d’information sont hiérarchisés numériquement sans dépasser trois niveaux (Ex. :
+            2.1 = niveau 1, 2.1.1 = niveau 2, 2.1.1.1 = niveau 3). Il est important de souligner que Word permet de
+            génère automatiquement une table des matières. Toutefois, par mesure de précaution, le rédacteur doit
+            s’assurer que la formulation et l’ordre d’apparition des titres dans le document concordent bien avec ceux
+            présentés dans la table des matières.
+        </span>
+    </notion>
+    <notion id="1_1_9_1" position="23">
+        <span>Dès qu’un document comporte plus de trois tableaux, une liste des tableaux doit être dressée et présentée
+            après la table des matières.
+        </span>
+    </notion>
+    <notion id="1_1_9_2" position="24">
+        <span>La liste des tableaux présente le numéro et le titre de chaque tableau. Il est souhaitable de représenter
+            la liste des tableaux sous forme de tableau à deux colonnes. La première colonne donne l’indexe du table et
+            la seconde colonne fait correspondre le nom du tableau.
+        </span>
+    </notion>
+    <notion id="1_1_10_1" position="25">
+        <span>La liste des figures (incluant graphiques, dessins et photographies) suit les mêmes règles que celles
+            établies pour la liste des tableaux. Il est souhaitable que chaque figure soit converti en image pour
+            faciliter le traitement machine.
+        </span>
+    </notion>
+    <notion id="1_1_11_1" position="26">
+        <span>Lorsqu’on utilise des abréviations, des sigles et des acronymes dans un document, on doit dresser une
+            liste alphabétique des abréviations, sigles et acronymes accompagnée de leur signification. Si possible,
+            faire une représentation par tableau de cette liste. Il est à noter que la liste n’est pas requise quand un
+            nombre restreint d’abréviations, de sigles ou d’acronymes est utilisé (Ex. : cinq termes et moins).
+        </span>
+    </notion>
+    <notion id="1_2_1_1" position="27">
+        <span>Le développement du corps du support se divise habituellement en chapitres et sous-chapitres ou en parties
+            et sous parties. Dans un cours, chaque grande idée directrice correspond à un chapitre qui comporte un
+            titre. Cette méthodologie de rédaction du cops du document doit être complétée ultérieurement pour indiquer
+            selon le type de document, la stratégie de présentation à adopter.
+        </span>
+    </notion>
+    <notion id="1_3_1_1" position="28">
+        <span>La conclusion permet à l’auteur d’effectuer le bilan des grandes parties et des propositions présentées
+            dans le développement. On y retrouve le problème initial à résoudre ainsi que la réponse à la question posée
+            ou la solution au problème exposé.
+        </span>
+    </notion>
+    <notion id="1_3_2_1" position="29">
+        <span>Il peut s’avérer nécessaire de présenter les recommandations sur une page distincte lorsque de nouvelles
+            orientations d’apprentissage ou de nouvelles applications sont proposées et que des informations détaillées
+            sont nécessaires. Ces consignes sont considérées comme étant des recommandations et elles sont
+            habituellement exprimées sous forme d’énoncés succincts. Lorsque les recommandations sont peu nombreuses, il
+            est possible de les ajouter à la suite du texte de conclusion. Toutefois, lorsqu’elles sont plus nombreuses
+            ou qu’elles nécessitent des explications détaillées, il est alors suggéré de les présenter sur une page
+            distincte.
+        </span>
+    </notion>
+    <notion id="1_3_3_1" position="30">
+        <span>Les annexes sont des documents jugés nécessaires à la compréhension du cours et elles constituent un
+            complément nécessaire d’information pour toute personne qui voudrait mieux comprendre ou même peut-être
+            mettre à jour le support. Les appendices sont considérés comme un supplément d’information et ils ne sont
+            pas jugés essentiels à la compréhension du document mais il peut être intéressant de les joindre au
+            document.
+        </span>
+    </notion>
+    <notion id="1_3_3_2" position="31">
+        <span>L’annexe et l’appendice doivent être annoncés dans le corps du document à l’endroit précis où le lecteur
+            doit les consulter.
+        </span>
+    </notion>
+    <notion id="1_3_4_1" position="32">
+        <span>La liste de références recense, par ordre alphabétique d’auteurs, l’ensemble des ouvrages pertinents lus
+            et cités dans le texte. On y trouve uniquement les ouvrages qui ont servi à la rédaction du texte et à la
+            confection des figures, tableaux et annexes et qui sont cités dans le texte. La bibliographie, par contre,
+            recense l’ensemble des livres, documents, communications et articles relatifs à un sujet donné, qu’ils aient
+            été consultés ou non, durant le travail.
+        </span>
+    </notion>
+    <notion id="1_3_4_2" position="33">
+        <span/>
+    </notion>
+</listeDecriptionNotion>

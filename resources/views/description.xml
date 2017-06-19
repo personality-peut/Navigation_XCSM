@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cours nbrParties="1" title="Document6.docx.fo">
+    <partie id="1" nbrChapitres="3" title="Ordre et contenu des parties d’un support de cours">
+        <notion position="1"/>
+        <chapitre id="1" nbrParagraphes="11" title="Pages préliminaires">
+            <paragraphe id="1" nbrNotions="12" title="Le titre du cours">
+                <notion id="1" position="2"/>
+                <notion id="2" position="3"/>
+                <notion id="3" position="4"/>
+                <notion id="4" position="5"/>
+                <notion id="5" position="6"/>
+                <notion id="6" position="7"/>
+                <notion id="7" position="8"/>
+                <notion id="8" position="9"/>
+                <notion id="9" position="10"/>
+                <notion id="10" position="11"/>
+                <notion id="11" position="12"/>
+                <notion id="12" position="13"/>
+            </paragraphe>
+            <paragraphe id="2" nbrNotions="1" title="La liste de diffusion">
+                <notion id="1" position="14"/>
+            </paragraphe>
+            <paragraphe id="3" nbrNotions="1" title="Résumé du support">
+                <notion id="1" position="15"/>
+            </paragraphe>
+            <paragraphe id="4" nbrNotions="1" title="Tableau">
+                <notion id="1" position="16"/>
+            </paragraphe>
+            <paragraphe id="5" nbrNotions="1" title="Image">
+                <notion id="1" position="17"/>
+            </paragraphe>
+            <paragraphe id="6" nbrNotions="1" title="Les objectifs pédagogiques (cas des supports de cours) ">
+                <notion id="1" position="18"/>
+            </paragraphe>
+            <paragraphe id="7" nbrNotions="1" title="Les dépendances">
+                <notion id="1" position="19"/>
+            </paragraphe>
+            <paragraphe id="8" nbrNotions="2" title="Sommaire ou table des matières">
+                <notion id="1" position="20"/>
+                <notion id="2" position="21"/>
+            </paragraphe>
+            <paragraphe id="9" nbrNotions="2" title="La liste des tableaux">
+                <notion id="1" position="22"/>
+                <notion id="2" position="23"/>
+            </paragraphe>
+            <paragraphe id="10" nbrNotions="1" title="La liste des figures">
+                <notion id="1" position="24"/>
+            </paragraphe>
+            <paragraphe id="11" nbrNotions="1" title="Liste des abréviations, sigles et acronymes ">
+                <notion id="1" position="25"/>
+            </paragraphe>
+        </chapitre>
+        <chapitre id="2" nbrParagraphes="1" title="Le développement ou corps du document ">
+            <paragraphe id="1" nbrNotions="1" title="titre par defaut">
+                <notion id="1" position="26"/>
+            </paragraphe>
+        </chapitre>
+        <chapitre id="3" nbrParagraphes="4" title="Les contenus de fin de document">
+            <paragraphe id="1" nbrNotions="1" title="La conclusion">
+                <notion id="1" position="27"/>
+            </paragraphe>
+            <paragraphe id="2" nbrNotions="1" title="Les recommandations">
+                <notion id="1" position="28"/>
+            </paragraphe>
+            <paragraphe id="3" nbrNotions="2" title="Annexes et appendices (s’il y a lieu)">
+                <notion id="1" position="29"/>
+                <notion id="2" position="30"/>
+            </paragraphe>
+            <paragraphe id="4" nbrNotions="2" title="La bibliographie et la liste de référence bibliographique">
+                <notion id="1" position="31"/>
+                <notion id="2" position="32"/>
+            </paragraphe>
+        </chapitre>
+    </partie>
+</cours>

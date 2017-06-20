@@ -117,23 +117,31 @@ class NavigationController extends Controller
                         $text_paragraphes .= "</div>";
                         $text_paragraphes .= "<br/>";
                             // Navigation avec paragraphes
-                            $nav_paragraphes["".$i."_".$j."_".$k] = $description->partie[$i]->chapitre[$j]->paragraphe[$k]->attributes()->title;
+                            $titre = [];
+                            $titre["title"] = $description->partie[$i]->chapitre[$j]->paragraphe[$k]->attributes()->title;
+                            $nav_paragraphes["".$i."_".$j."_".$k] = (object) $titre;
                         // On remplit les notions contenus dans le paragraphe
                         for ($l = 0; $l < $description->partie[$i]->chapitre[$j]->paragraphe[$k]->attributes()->nbrNotions; $l++) {
                             $text_paragraphes .= $notionsArray["".$description->partie[$i]->chapitre[$j]->paragraphe[$k]->notion[$l]->attributes()->id];
                         }
                     }
                     $text_chapitres .= $text_paragraphes;
-                    $nav_chapitres["".$i."_".$j] = $nav_paragraphes;
+                    $titre = [];
+                    $titre["title"] = $description->partie[$i]->chapitre[$j]->attributes()->title;
+                    $titre["fils"] = $nav_paragraphes;
+                    $nav_chapitres["".$i."_".$j] = (object) $titre;
                 }
                 $text_parties .= $text_chapitres;
-                $nav_parties["".$i] = $nav_chapitres;
+                $titre = [];
+                $titre["title"] = $description->partie[$i]->attributes()->title;
+                $titre["fils"] = $nav_chapitres;
+                $nav_parties["".$i] = (object) $titre;
             }
             $resultat = [];
             $resultat["contenu"] = $text_parties;
             $resultat["navigation"] = $nav_parties;
-            $resultat = json_encode($resultat);
             //dd($resultat);
+            $resultat = json_encode($resultat);
             return $resultat;
         }
 }
